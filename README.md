@@ -26,5 +26,5 @@ Hi, this is the github page of [smartuw](https://taikai.network/cassinihackathon
 The parts of the project are:
 - the map itself: [ minetrackerorg /minetracker_webpage](https://github.com/minetrackerorg/minetracker_webpage)
 - the device: [minetrackerorg /detector_device](https://github.com/minetrackerorg/detector_device)
-- the image detection for the OUBot submarine to detect the mines: [minetrackerorg /mine_detection](https://github.com/minetrackerorg/mine_detection)
+- the image detection for the [OUBot AUV](http://oubot.ekik.uni-obuda.hu) platform to detect the mines: [minetrackerorg /mine_detection](https://github.com/minetrackerorg/mine_detection)
 
