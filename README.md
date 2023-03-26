@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, this is the github page of [smartuw](https://taikai.network/cassinihackathons/hackathons/defence-security/projects/clfcn42g5161820001yf39mfnrb9/idea) project.
+
+- See our website at: https://www.minetracker.org
+
+The parts of the project are:
+- the map itself: https://github.com/minetrackerorg/minetracker_webpage
+- the device: 
+- the image detection for the OUBot submarine to detect the mines: 
